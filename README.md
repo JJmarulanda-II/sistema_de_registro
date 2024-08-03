@@ -2,6 +2,6 @@
 
 🚧Estado del proyecto: en construcción. 🚧 
 
-Para ejecutar el siistema, debes poner:
+Para ejecutar el sistema, debes poner:
 
 ```nmp install react```
